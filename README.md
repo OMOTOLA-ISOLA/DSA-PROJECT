@@ -18,9 +18,9 @@ CARGO,FRED
 
 ### MY RESULTS AND FINDINGS
   1. THE MORE THE DISCOUNT THE CUSTOMERS GOT THE MORE THE PRODUCT RATING. THIS IMPLIES PURCHASE MORE PRODUCTS IF THERE IS MORE DISCOUNT.
-  2. THE CUSTOMERS SEEM MORE SATISFIED WITH PRODUCTS LIKE Syncwire LTG to USB Cable for Fast Charging Compatible with Phone 5/ 5C/ 5S/ 6/ 6S/ 7/8/ X/XR/XS Max/ 11/12/ 13 Series and Pad       Air/Mini, Pod & Other Devices (1.1 Meter, White),Amazon Basics Wireless Mouse | 2.4 GHz Connection, 1600 DPI | Type - C Adapter | Upto 12 Months of Battery Life | Ambidextrous           Design |   Suitable for PC/Mac/Laptop AND REDTECH USB-C to Lightning Cable 3.3FT, [Apple MFi Certified] Lightning to Type C Fast Charging Cord Compatible with iPhone 14/13/13            pro/Max/12/11/X/XS/XR/8, Supports Power Delivery - White.
+  2. THE CUSTOMERS SEEM MORE SATISFIED WITH PRODUCTS LIKE 'Syncwire LTG to USB Cable for Fast Charging Compatible with Phone 5/ 5C/ 5S/ 6/ 6S/ 7/8/ X/XR/XS Max/ 11/12/ 13 Series and Pad       Air/Mini, Pod & Other Devices (1.1 Meter, White),Amazon Basics Wireless Mouse | 2.4 GHz Connection, 1600 DPI | Type - C Adapter | Upto 12 Months of Battery Life | Ambidextrous           Design |   Suitable for PC/Mac/Laptop AND REDTECH USB-C to Lightning Cable 3.3FT, [Apple MFi Certified] Lightning to Type C Fast Charging Cord Compatible with iPhone 14/13/13            pro/Max/12/11/X/XS/XR/8, Supports Power Delivery - White'.
   3. THE POTENTIAL REVENUE THAT WILL BE RECEIVED IF NEW PRODUCTS WERE MADE AVAILABLE IN LINE WITH THE CUSTOMERS RATING REPORT IS IN BILLION. THIS IS REALLY MUCH AND ALSO SHOW THE             CUSTOMERS ACCEPTABILITY OF AMAZONS PRODUCTS.
-  4. PRODUCTS IN THE CATEGORY Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions HAVE THE HIGHEST DICOUNTED PRICE.
+  4. PRODUCTS IN THE CATEGORY 'Electronics|HomeTheater,TV&Video|Televisions|SmartTelevisions' HAVE THE HIGHEST DICOUNTED PRICE.
   5. AMAZON CUSTOMER COMMUNITY IS RESPONSIVE AS THE MORE THE REVIEWS THE MORE CUSTOMER RATING. THE COMPANY SHOULD TAKE ADVANTAGE OF THE CUSTOMERS FEEDBACK AND LOYALTY TO ACHIEVE THE          POTENTIAL REVENUE.
 
   
