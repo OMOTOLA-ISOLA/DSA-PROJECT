@@ -14,7 +14,7 @@ CARGO.COM, EXCEL
 -[image](https://github.com/user-attachments/assets/65a40338-fa81-44ed-92f4-271008b712eb)
 
 ### MY ANALYSIS
-https://github.com/OMOTOLA-ISOLA/DSA-PROJECT/blob/main/TOTAL%20POTENTIAL%20REVENUE%20BY%20CATEGORY.docx
+IMAGE 2.docx
 
 
 
