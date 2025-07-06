@@ -14,10 +14,15 @@ CARGO.COM, EXCEL
 -[image](https://github.com/user-attachments/assets/65a40338-fa81-44ed-92f4-271008b712eb)
 
 ### MY ANALYSIS
-IMAGE 2.docx
 
 
 
+![Screenshot 2025-07-07 095151](https://github.com/user-attachments/assets/fc526ef0-81e2-4162-8d3c-41c27dddc4ab)
+
+
+
+
+![Screenshot 2025-07-07 095345](https://github.com/user-attachments/assets/d6208e6d-d6de-4571-ab52-d07feac7036d)
 
 
 ### MY RESULTS AND FINDINGS
